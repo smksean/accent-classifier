@@ -9,6 +9,6 @@ numpy>=1.17.0
 torch==1.11.0
 torchaudio==0.11.0
 audio-recorder-streamlit
-whisper @ git+https://github.com/openai/whisper.git
+git+https://github.com/openai/whisper.git
 
 
