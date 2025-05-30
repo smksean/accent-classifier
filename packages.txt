@@ -1,1 +1,10 @@
+ffmpeg
+libgl1
+libavdevice58
+libavfilter7
+libavformat58
+libavcodec58
+libavutil56
+libswscale5
+libswresample3
 
